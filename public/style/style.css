@@ -1,0 +1,14 @@
+body {
+    background-image: url('https://images6.alphacoders.com/962/962676.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: white;
+}
+
+.content {
+    background-color: rgba(0, 0, 0, 0.5); /* Pour rendre le texte plus lisible */
+    padding: 20px;
+    border-radius: 10px;
+}

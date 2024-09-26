@@ -11,8 +11,7 @@
 <body>
 
 
-Utilisateur : <strong2> {{ $username }} </strong2> <br>
-Mdp : <strong> {{ $password }} </strong>
+Utilisateur : <strong> {{ $nom }} </strong>
 
 
 </body>

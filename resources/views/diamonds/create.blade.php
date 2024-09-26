@@ -4,20 +4,20 @@
     <style>
         body {
             background-image: url('https://i.imgur.com/kNIkSAi.jpeg');
-            background-size: cover; /* Couvre toute la zone */
-            background-position: center; /* Centre l'image */
-            background-repeat: no-repeat; /* Ne répète pas l'image */
-            height: 100vh; /* Prend toute la hauteur de la fenêtre */
-            color: white; /* Change la couleur du texte pour plus de lisibilité */
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            height: 100vh;
+            color: white;
         }
 
         .form-container {
-            background-color: rgba(0, 0, 0, 0.7); /* Fond semi-transparent pour le formulaire */
+            background-color: rgba(0, 0, 0, 0.7);
             padding: 20px;
             border-radius: 10px;
-            max-width: 400px; /* Limite la largeur du formulaire */
-            margin: auto; /* Centre le formulaire horizontalement */
-            margin-top: 100px; /* Espace au-dessus du formulaire */
+            max-width: 400px;
+            margin: auto;
+            margin-top: 100px;
         }
     </style>
 

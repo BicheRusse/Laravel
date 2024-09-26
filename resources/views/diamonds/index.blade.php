@@ -13,7 +13,7 @@
         }
 
         .content {
-            background-color: rgba(0, 0, 0, 0.5); /* Pour rendre le texte plus lisible */
+            background-color: rgba(0, 0, 0, 0.5);
             padding: 20px;
             border-radius: 10px;
         }

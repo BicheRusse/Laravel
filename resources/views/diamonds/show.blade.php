@@ -12,7 +12,7 @@
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
-            color: white;
+            color: darkred;
         }
 
         .content-container {

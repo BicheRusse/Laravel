@@ -8,7 +8,7 @@
             background-position: center;
             background-repeat: no-repeat;
             height: 100vh;
-            color: white;
+            color: cyan;
         }
 
         .form-container {
